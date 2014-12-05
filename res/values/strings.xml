@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wtcfoodshop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_baskin">Baskin Robbins</string>
+    <string name="title_activity_solaria">Solaria</string>
+    <string name="title_activity_sendokgarpu">Sendok Garpu</string>
+
+</resources>
